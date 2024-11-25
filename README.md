@@ -68,7 +68,7 @@ Before running Edge Power, make sure you have the following installed:
 
 To start the Edge Power application locally:
 
-Run the HelloApplication.java file
+Run the HelloApplication.java file (or) run EdgePower.exe
 
 ## 🖥️ Deploying Models to Edge Devices
 Edge Power allows you to deploy models to edge devices with ease. Follow these steps:
