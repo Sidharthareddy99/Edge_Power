@@ -52,8 +52,8 @@ Before running Edge Power, make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/edge-power.git
-    cd edge-power
+    https://github.com/Sidharthareddy99/Edge_Power.git
+    cd Edge-Power
     ```
 
 2. Install the required dependencies:
